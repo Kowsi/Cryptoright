@@ -1,9 +1,9 @@
-# CryptoRight Blockchain Copyright System
+# MartianMarket
 
 ## Summary
 
-This application is a copyright management system built on the Ethereum blockchain.
+This application is an online auction system for the Martian Land Foundation to auction available resources on Mars.
 
 ### Demo App
 
-Click [here](frontend/index.html) to launch the CryptoRight application.
+Click [here](frontend/index.html) to launch the MartianMarket application.
